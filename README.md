@@ -1,0 +1,1 @@
+# manual-linear-rigression-model-for-implement-in-robotics-microcontroller-
